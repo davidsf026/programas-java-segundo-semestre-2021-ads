@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;painel&apos; in &apos;apresentacao.VisaoPrincipal&apos; to &apos;objPainel&apos;&#x0D;&#x0A;- Original project: &apos;LingProg_Aula011&apos;&#x0D;&#x0A;- Original element: &apos;apresentacao.VisaoPrincipal.painel&apos;&#x0D;&#x0A;- Renamed element: &apos;apresentacao.VisaoPrincipal.objPainel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;painel&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;apresentacao{VisaoPrincipal.java[VisaoPrincipal^painel" name="objPainel" references="true" setter="false" stamp="1635165527132" textual="false" version="1.0"/>
+</session>
